@@ -1,0 +1,5 @@
+{
+  "api": {
+      "data": {"count":1,"next":null,"previous":null,"results":[{"shipment_number":"1036129","status":"confirmed","ship_date":"2021-06-14","weight":"5.00","carton_number":"00004752380000000999","tracking_number":"00004752380000000999","ship_code":"064","ship_code_description":"LTL xE2x80x93 FT","shipment_detail":[{"order_line_number":"1","pick_line_number":"1","sku_code":"9373937","qty_shipped":1,"lots":[]}],"pick_ticket_number":"1000538645","order_number":"H50367463205","bill_of_lading_number":null}]}
+    }
+}
